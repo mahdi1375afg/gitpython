@@ -3,7 +3,7 @@ private int x; // Zählerstand
 private int y = -999;
 private int size ;
 
-public void RestrictedCounter ( int capacity){
+public  RestrictedCounter ( int capacity){
 	size  = capacity;
 	x = 0;
 }
@@ -13,7 +13,7 @@ x = 0;
 public void increment() { // Hochzählen
 if (x >= size){
 	System.out.println("Sie haben max Kapazität überschritet");
-break;}
+}
 else{
 x++;
 }
