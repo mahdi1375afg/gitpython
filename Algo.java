@@ -45,7 +45,7 @@ public void restore(){
 	}
 }
 
-public int freeCapacit(){
+public int freeCapacity(){
 	int free = size - x;
 	//System.out.println("es gibt noch " + free + "plätze");
 	return free;
