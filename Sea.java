@@ -3,6 +3,9 @@ public class Sea{
  private int n;
 
  public void class (){}
+
+  // Konflikt erzeugen
+
   public static main() {
 
   }
