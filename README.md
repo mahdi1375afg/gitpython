@@ -39,6 +39,20 @@ rm -rf .git
 
 [[git config core.editor commands]]
 
-# [[git-Create new repo from local directory]]
+# git-Create new repo from local directory
+1. cd into project folder 
+	`cd /path/to/your/project/folder`
+2. `git init `
+> [!warning]
+>  by default **master** see [[git]] config section
+3. `git add .` 
+4. `git commit -m 'Initial commit`
+5. Create a New Repository on GitHub
+6. `git remote add origin <remote_repository_url>`
+> [!tip]
+> Use SSH address to avoid authentication issues  
+7. `git fetch origin`
+8. `git push -u origin main`
+
 
 # [[GitHub Pages]]
