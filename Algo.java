@@ -1,3 +1,5 @@
+//mahdi
+
 public class RestrictedCounter {
 private int x; // Zählerstand
 private int y = -999;
