@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dca19d34-8746-4189-a73a-573094b10c4c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2n6BwRFQPvwHtpBOQDUyuTLKnCt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.Blatt_1_WortImplTest.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testAnzahl.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testEquals.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testErsetze.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testIstTeilWort.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testKonkateniere.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testKonstruktor.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testLaenge.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testPosition.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testTausche.executor": "Run",
+    "JUnit.Blatt_1_WortImplTest.testteilwort.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mahdi/OneDrive/3er_Semester/Formale Sprache/Blatt 1",
+    "settings.editor.selected.configurable": "preferences.externalDependencies"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Blatt_1_WortImplTest">
+    <configuration name="Blatt_1_WortImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blatt 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hob" />
+      <option name="MAIN_CLASS_NAME" value="hob.Blatt_1_WortImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blatt_1_WortImplTest.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blatt 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hob" />
+      <option name="MAIN_CLASS_NAME" value="hob.Blatt_1_WortImplTest" />
+      <option name="METHOD_NAME" value="testEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blatt_1_WortImplTest.testIstTeilWort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blatt 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hob" />
+      <option name="MAIN_CLASS_NAME" value="hob.Blatt_1_WortImplTest" />
+      <option name="METHOD_NAME" value="testIstTeilWort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blatt_1_WortImplTest.testKonkateniere" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blatt 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hob" />
+      <option name="MAIN_CLASS_NAME" value="hob.Blatt_1_WortImplTest" />
+      <option name="METHOD_NAME" value="testKonkateniere" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blatt_1_WortImplTest.testPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blatt 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hob.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hob" />
+      <option name="MAIN_CLASS_NAME" value="hob.Blatt_1_WortImplTest" />
+      <option name="METHOD_NAME" value="testPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Blatt_1_WortImplTest" />
+        <item itemvalue="JUnit.Blatt_1_WortImplTest.testIstTeilWort" />
+        <item itemvalue="JUnit.Blatt_1_WortImplTest.testPosition" />
+        <item itemvalue="JUnit.Blatt_1_WortImplTest.testEquals" />
+        <item itemvalue="JUnit.Blatt_1_WortImplTest.testKonkateniere" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dca19d34-8746-4189-a73a-573094b10c4c" name="Changes" comment="" />
+      <created>1728283885458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728283885458</updated>
+    </task>
+    <servers />
+  </component>
+</project>
