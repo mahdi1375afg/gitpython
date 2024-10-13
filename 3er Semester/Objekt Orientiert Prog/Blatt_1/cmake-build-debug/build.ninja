@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/mahdi/OneDrive/3er_Semester/Objekt$ Orientiert$ 
 
 build cmake_object_order_depends_target_Blatt_1: phony || .
 
-build CMakeFiles/Blatt_1.dir/main.cpp.obj: CXX_COMPILER__Blatt_1_unscanned_Debug C$:/Users/mahdi/OneDrive/3er_Semester/Objekt$ Orientiert$ Prog/Blatt_1/main.cpp || cmake_object_order_depends_target_Blatt_1
-  DEP_FILE = CMakeFiles\Blatt_1.dir\main.cpp.obj.d
+build CMakeFiles/Blatt_1.dir/toIntSum.cpp.obj: CXX_COMPILER__Blatt_1_unscanned_Debug C$:/Users/mahdi/OneDrive/3er_Semester/Objekt$ Orientiert$ Prog/Blatt_1/toIntSum.cpp || cmake_object_order_depends_target_Blatt_1
+  DEP_FILE = CMakeFiles\Blatt_1.dir\toIntSum.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Blatt_1.dir
   OBJECT_FILE_DIR = CMakeFiles\Blatt_1.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Blatt_1.dir/main.cpp.obj: CXX_COMPILER__Blatt_1_unscanned_Debug
 #############################################
 # Link the executable Blatt_1.exe
 
-build Blatt_1.exe: CXX_EXECUTABLE_LINKER__Blatt_1_Debug CMakeFiles/Blatt_1.dir/main.cpp.obj
+build Blatt_1.exe: CXX_EXECUTABLE_LINKER__Blatt_1_Debug CMakeFiles/Blatt_1.dir/toIntSum.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Blatt_1.dir
