@@ -1,0 +1,14 @@
+# ninja log v6
+6	469	7517273846444674	CMakeFiles/position.cpp.dir/position.cpp.obj	544f8a830918d15f
+470	554	7517273851082554	position.cpp.exe	52e0c3be19565de6
+6	588	7519200541964934	CMakeFiles/position.cpp.dir/position.cpp.obj	544f8a830918d15f
+13	586	7519201493608980	CMakeFiles/position.cpp.dir/main.cpp.obj	88c02ee92f878b24
+588	742	7519201499361381	position.cpp.exe	48510da686998ba5
+15	589	7519202586947689	CMakeFiles/position.cpp.dir/position.cpp.obj	544f8a830918d15f
+21	591	7519202587003228	CMakeFiles/position.cpp.dir/main.cpp.obj	88c02ee92f878b24
+591	720	7519202592701281	position.cpp.exe	48510da686998ba5
+14	565	7519203666990789	CMakeFiles/position.cpp.dir/position.cpp.obj	544f8a830918d15f
+23	596	7519203667069614	CMakeFiles/position.cpp.dir/main.cpp.obj	88c02ee92f878b24
+596	727	7519203672792921	position.cpp.exe	48510da686998ba5
+16	585	7519204113174181	CMakeFiles/position.cpp.dir/main.cpp.obj	88c02ee92f878b24
+586	712	7519204118879079	position.cpp.exe	48510da686998ba5

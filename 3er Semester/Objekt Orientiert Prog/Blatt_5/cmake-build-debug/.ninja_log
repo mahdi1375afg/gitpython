@@ -1,0 +1,17 @@
+# ninja log v6
+16	543	7531399255490551	CMakeFiles/Blatt_5.dir/test_city.cpp.obj	63eed59c5e430a1f
+2	528	7527822021320438	CMakeFiles/Blatt_5.dir/main.cpp.obj	c56c962de685c2f0
+6	430	7531404943277952	CMakeFiles/Blatt_5.dir/City.cpp.obj	eeca1181013fbd7
+3	220	7531406272963297	build.ninja	b307b5a14ba345d7
+563	699	7531287734269832	Blatt_5.exe	a30b20d97cde99cc
+6	417	7531406394149404	CMakeFiles/Blatt_5.dir/Position.cpp.obj	19d8b7889ebc6566
+418	509	7531406398267989	Blatt_5.exe	bd8ffebd0f5e3a62
+6	469	7531414821694227	CMakeFiles/Blatt_5.dir/test_city.cpp.obj	63eed59c5e430a1f
+470	571	7531414826329406	Blatt_5.exe	bd8ffebd0f5e3a62
+6	455	7531419593706053	CMakeFiles/Blatt_5.dir/City.cpp.obj	eeca1181013fbd7
+456	550	7531419598206279	Blatt_5.exe	bd8ffebd0f5e3a62
+6	447	7531424346686187	CMakeFiles/Blatt_5.dir/City.cpp.obj	eeca1181013fbd7
+10	473	7531424346686187	CMakeFiles/Blatt_5.dir/test_city.cpp.obj	63eed59c5e430a1f
+474	565	7531424351395218	Blatt_5.exe	bd8ffebd0f5e3a62
+6	442	7531426556355813	CMakeFiles/Blatt_5.dir/City.cpp.obj	eeca1181013fbd7
+443	536	7531426560716567	Blatt_5.exe	bd8ffebd0f5e3a62
